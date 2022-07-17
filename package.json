@@ -14,7 +14,7 @@
     "activationCommands": {
     "atom-workspace": "agen-slot-online:toggle"
   },
-  "repository": "https://github.com/Slot-Online-Gacor-5000/agen-slot-online",
+  "repository": "https://github.com/ayam-gorengkalasan/agen-slot-online",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
