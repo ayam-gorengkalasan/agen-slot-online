@@ -1,4 +1,4 @@
->>> DAFTAR DISINI <<<(https://rebrand.ly/slotgacorserba88)
+>>> [DAFTAR DISINI](https://rebrand.ly/slotgacorserba88) <<<
 -------------------------------------------------------------
 
 SITUS BO SLOT ONLINE DEPOSIT PULSA 5RB TANPA POTONGAN
