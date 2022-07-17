@@ -1,7 +1,7 @@
 {
   "name": "agen-slot-online-5000",
   "main": "./atom/agen-slot-online-5000",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Agen slot online deposit 5000 tanpa potongan",
   "keywords": [
     "slot bet kecil",
@@ -11,7 +11,7 @@
     "slot deposit 5000",
     "slot online deposit termurah"
   ],
-    "activationCommands": {
+  "activationCommands": {
     "atom-workspace": "agen-slot-online:toggle"
   },
   "repository": "https://github.com/ayam-gorengkalasan/agen-slot-online",
