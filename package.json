@@ -1,11 +1,7 @@
 {
   "name": "agen-slot-online-5000",
   "main": "./atom/agen-slot-online-5000",
-<<<<<<< HEAD
-  "version": "2.0.0",
-=======
   "version": "1.1.0",
->>>>>>> 192961ad2c0599858de9599250d6272870365a9f
   "description": "Agen slot online deposit 5000 tanpa potongan",
   "keywords": [
     "slot bet kecil",
